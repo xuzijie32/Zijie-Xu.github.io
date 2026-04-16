@@ -2,9 +2,9 @@
 title: "Proxy Target: Bridging the Gap Between Discrete Spiking Neural Networks and Continuous Control"
 collection: publications
 category: conferences
-permalink: /publication/NeurIPS2025
+permalink: /publication/Proxy_Target
 excerpt: 'Standard continuous-control RL methods are incompatible with SNN dynamics, causing unstable training and poor performance. This paper introduces a proxy target network that stabilizes learning and boosts performance without affecting inference efficiency, enabling SNNs to outperform ANNs in some settings.'
-date: 2024-02-17
+date: 2025-12-02
 venue: 'The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)'
 paperurl: 'https://openreview.net/forum?id=RRBve5GwjS'
 citation: 'Zijie XU, Tong Bu, Zecheng Hao, Jianhao Ding, Zhaofei Yu.  Annual Conference on Neural Information Processing Systems (NeurIPS) 2025.'
