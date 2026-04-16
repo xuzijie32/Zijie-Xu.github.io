@@ -3,7 +3,7 @@ title: "Proxy Target: Bridging the Gap Between Discrete Spiking Neural Networks 
 collection: publications
 category: conferences
 permalink: /publication/Proxy_Target
-excerpt: 'Standard continuous-control RL methods are incompatible with SNN dynamics, causing unstable training and poor performance. This paper introduces a proxy target network that stabilizes learning and boosts performance (up to +32%) without affecting inference efficiency, enabling SNNs to outperform ANNs in some settings.'
+excerpt: 'Standard continuous-control RL methods are incompatible with SNN dynamics, causing unstable training and poor performance. This paper introduces a proxy target network that stabilizes learning and boosts performance without affecting inference efficiency, enabling SNNs to outperform ANNs in some settings.'
 date: 2025
 venue: 'The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)'
 paperurl: 'https://openreview.net/forum?id=RRBve5GwjS'
