@@ -6,7 +6,7 @@ permalink: /publication/Proxy_Target
 excerpt: 'Standard continuous-control RL methods are incompatible with SNN dynamics, causing unstable training and poor performance. This paper introduces a proxy target network that stabilizes learning and boosts performance (up to +32%) without affecting inference efficiency, enabling SNNs to outperform ANNs in some settings.'
 date: 2025
 venue: 'The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)'
-paperurl: '[https://openreview.net/forum?id=RRBve5GwjS]'
+paperurl: 'https://openreview.net/forum?id=RRBve5GwjS'
 ---
 
 [OpenReview](https://openreview.net/forum?id=RRBve5GwjS) [Arxiv](https://arxiv.org/abs/2505.24161) [Github](https://github.com/xuzijie32/Proxy-Target)
