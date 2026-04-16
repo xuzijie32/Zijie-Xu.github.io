@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/NeurIPS2025
 excerpt: 'Standard continuous-control RL methods are incompatible with SNN dynamics, causing unstable training and poor performance. This paper introduces a proxy target network that stabilizes learning and boosts performance without affecting inference efficiency, enabling SNNs to outperform ANNs in some settings.'
-date: 2025
+date: 2024-02-17
 venue: 'The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)'
 paperurl: 'https://openreview.net/forum?id=RRBve5GwjS'
 citation: 'Zijie XU, Tong Bu, Zecheng Hao, Jianhao Ding, Zhaofei Yu.  Annual Conference on Neural Information Processing Systems (NeurIPS) 2025.'
