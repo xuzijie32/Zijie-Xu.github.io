@@ -7,6 +7,7 @@ excerpt: 'CaRe-BN improves training stability in Spiking Neural Networks for rei
 date: 2026
 venue: 'The Fourteenth International Conference on Learning Representations'
 paperurl: 'https://openreview.net/forum?id=AaZVrbElhC'
+citation: 'Zijie XU, Tong Bu, Zecheng Hao, Jianhao Ding, Zhaofei Yu.  Annual Conference on Neural Information Processing Systems (NeurIPS) 2025.'
 ---
 
 [OpenReview](https://openreview.net/forum?id=AaZVrbElhC) [Arxiv](https://arxiv.org/abs/2509.23791) [Github](https://github.com/xuzijie32/CaRe-BN)
