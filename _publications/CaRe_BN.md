@@ -6,7 +6,7 @@ category: conferences
 permalink: /publication/CaRe_BN
 excerpt: 'CaRe-BN improves training stability in Spiking Neural Networks for reinforcement learning by adapting and recalibrating batch normalization statistics, leading to faster convergence and better policies. It boosts SNN performance (even surpassing ANNs) without affecting inference efficiency, making it suitable for energy-constrained deployment.'
 date: 2026-04-23
-venue: 'The Fourteenth International Conference on Learning Representations'
+venue: 'The Fourteenth International Conference on Learning Representations (ICLR)'
 paperurl: 'https://openreview.net/forum?id=AaZVrbElhC'
 ---
 
