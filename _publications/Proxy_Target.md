@@ -7,6 +7,7 @@ excerpt: 'Standard continuous-control RL methods are incompatible with SNN dynam
 date: 2025
 venue: 'The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)'
 paperurl: 'https://openreview.net/forum?id=RRBve5GwjS'
+citation: 'Zijie XU, Tong Bu, Zecheng Hao, Jianhao Ding, Zhaofei Yu.  Annual Conference on Neural Information Processing Systems (NeurIPS) 2025.'
 ---
 
 [OpenReview](https://openreview.net/forum?id=RRBve5GwjS) [Arxiv](https://arxiv.org/abs/2505.24161) [Github](https://github.com/xuzijie32/Proxy-Target)
